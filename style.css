@@ -1,0 +1,87 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.product-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.product {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.in-stock {
+    color: green;
+}
+
+.out-of-stock {
+    color: red;
+} */
+
+.container {
+  
+    width: 600px;
+    height: 200px;
+    margin: auto;
+}
+
+h1 {
+   text-align: center;
+  padding-bottom: 70px;
+padding-top: 20px;
+color:rgb(209, 88, 88)
+}
+
+.shirtlist {
+    display: flex;
+    flex-direction: column;
+}
+
+.shirt {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.in-stock{
+    color:green;
+    
+}
+.out-of-stock{
+    color: red;
+}
